@@ -12,3 +12,10 @@ h1 {
     height: 100px;
     color: white;
 }
+* {
+    background-color: #F0F0F0;
+}
+hr {
+    margin: 0;
+    background-color: #F0F0F0;
+}
