@@ -5,7 +5,7 @@
     font-family: 'Abel', sans-serif;
 }
 h1 {
-    font-size: 50px;
+    font-size: 80px;
 }
 .circles {
     width: 100px;
@@ -18,4 +18,8 @@ h1 {
 hr {
     margin: 0;
     background-color: #F0F0F0;
+    width: 90%;
+}
+.arial {
+    font-family: Arial, sans-serif;
 }
